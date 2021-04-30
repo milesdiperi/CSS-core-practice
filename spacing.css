@@ -1,0 +1,7 @@
+.hero {
+    background-color: rgba(197, 70, 159, 0.356);
+    height: 70vh;
+    /* min-height: 20rem; */
+    /* be careful using `width` when using a bootstrap grid */
+    /* width: 50vw; */
+}

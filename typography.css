@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h1 {
+   color: #269735; 
+   font-size: 5rem;
+   font-weight: 100;
+   letter-spacing: 50px;
+}
+
+p {
+    line-height: 2;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+
